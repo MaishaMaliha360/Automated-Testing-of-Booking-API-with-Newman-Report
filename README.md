@@ -423,6 +423,7 @@ newman run Batch24.postman_collection.json -e Batch24.postman_environment.json -
 ```
 
 ## Newman Report Summary:
+https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/f09b7684-8928-40b3-9ca0-835d42750d5e
 ![1](https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/fc4b642a-922a-47a0-8583-6fbf386ee89e)
 ![2](ht![3](https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/31c075d9-01e8-4345-b68a-acd7700819d0)
 ![3](https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/811766b1-096f-4655-9688-4fc498ac0a92)
