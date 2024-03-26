@@ -236,7 +236,7 @@ newman run Batch24.postman_collection.json -e Batch24.postman_environment.json -
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/56d08c4a-dfa9-4aa3-8d52-23ccbdf25a10)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/c1680ef6-adc1-4f95-87c5-55a6df798eee)
-![image](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/0e011c95-b3d2-46e1-952b-07938ee0bfa8)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/e5ae708d-6be9-45e8-8996-06a817f13e9d)
+![1](https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/fc4b642a-922a-47a0-8583-6fbf386ee89e)
+![2](ht![3](https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/31c075d9-01e8-4345-b68a-acd7700819d0)
+![3](https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/811766b1-096f-4655-9688-4fc498ac0a92)
+![4](https://github.com/MaishaMaliha360/Automated-Testing-of-Booking-API-with-Newman-Report/assets/69841337/d1ca3856-05b2-4942-8f98-5bbc9b87b43c)
